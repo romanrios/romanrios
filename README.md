@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <!--
 **romanrios/romanrios** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,12 +13,14 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm Roman!
+## Hello, I'm Roman!
 
-👨‍💻 Software Developer and Graphic Designer from Argentina, passionate about creating high-impact experiences in web development and multimedia design.
+- 👨‍💻 Software Developer and Graphic Designer from Santa Fe, Argentina
+- 🎯 Web development and multimedia design specialist
+- 🎮 Experienced in game development projects
+- 🎹 Experienced in composing original music
+- 🎓 Bachelor's degree in Visual Communication Design - Universidad Nacional del Litoral
+- 🎓 Higher Technician Degree in Software Development (in progress) - IFTS N°29
+- 🛠️ Proactivity, teamwork, effective communication, adaptability, and continuous learning
 
-🎓 I completed a Bachelor’s Degree in Visual Communication Design from the Universidad Nacional del Litoral, with specializations in Web Development and Programming. Currently, I am pursuing a Higher Technician Degree in Software Development, deepening my skills in software design, construction, verification, debugging, optimization, and maintenance.
 
-💡 My approach is based on proactivity, teamwork, effective communication, and adaptability, with a commitment to continuous learning to face challenges and achieve goals.
-
-🚀 Ready to bring my full potential and experience to your team. Let’s connect!
