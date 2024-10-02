@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 ## Hello, I'm Roman!
 
-- 👨‍💻 Software Developer and Graphic Designer from Santa Fe, Argentina
+- 👨‍💻 Software Developer and Visual Communication Designer from Santa Fe, Argentina
 - 🎯 Web development and multimedia design specialist
 - 🎮 Experienced in game development projects
 - 🎹 Experienced in composing original music
