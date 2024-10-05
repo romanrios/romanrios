@@ -16,8 +16,8 @@ Here are some ideas to get you started:
 ## Hello, I'm Roman!
 
 - 👨‍💻 Software Developer and Visual Communication Designer from Santa Fe, Argentina
-- 🎯 Web development and multimedia design specialist
-- 🎮 Experienced in game development projects
+- 🎯 Web Development and Multimedia Design specialist
+- 🎮 Experienced in Game Development projects
 - 🎹 Experienced in composing original music
 - 🎓 Bachelor's degree in Visual Communication Design - Universidad Nacional del Litoral
 - 🎓 Higher Technician Degree in Software Development (in progress) - IFTS N°29
