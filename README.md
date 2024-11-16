@@ -18,7 +18,6 @@ Here are some ideas to get you started:
 - 👨‍💻 Software Developer and Visual Communication Designer from Santa Fe, Argentina
 - 🎯 Web Development and Multimedia Design specialist
 - 🎮 Experienced in Game Development projects
-- 🎹 Experienced in composing original music
 - 🎓 Bachelor's degree in Visual Communication Design - Universidad Nacional del Litoral
 - 🎓 Higher Technician Degree in Software Development (in progress) - IFTS N°29
 - 🛠️ Proactivity, teamwork, effective communication, adaptability, and continuous learning
