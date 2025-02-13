@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## Hello, I'm Roman!
+## Hello, I'm Román!
 
 - 👨‍💻 Software Developer and Visual Communication Designer
 - 🗺️ Santa Fe, Argentina
