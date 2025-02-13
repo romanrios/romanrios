@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 ## Hello, I'm Román!
 
-- 👨‍💻 Software Developer and Visual Communication Designer
+- 👨‍💻 Software Developer and Visual Designer
 - 🗺️ Santa Fe, Argentina
 - 🎯 Web Development and Multimedia Design
 - 🎮 Experienced in Game Development projects
