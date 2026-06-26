@@ -18,8 +18,6 @@ Here are some ideas to get you started:
 - 👨‍💻 Software Developer | Visual Designer
 - 🗺️ Santa Fe, Argentina
 - 🎯 Web Development | Multimedia Design | Game Development
+- 🎓 Higher Technical Degree in Software Development - IFTS N°29
 - 🎓 Bachelor's degree in Visual Communication Design - Universidad Nacional del Litoral
-- 🎓 Higher Technician Degree in Software Development (in progress) - IFTS N°29
 - 🛠️ Proactivity, teamwork, effective communication, adaptability, and continuous learning
-
-
