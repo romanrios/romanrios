@@ -1,3 +1,5 @@
+<img width="1584" height="396" alt="Mesa de trabajo 1" src="https://github.com/user-attachments/assets/8d0ab839-968d-40e9-85dc-d0120ed5de9c" />
+
 ## Román Ríos
 
 **Software Developer & Visual Communication Designer**  
