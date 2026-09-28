@@ -1,23 +1,18 @@
-<!--
-**romanrios/romanrios** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Román Ríos
 
-Here are some ideas to get you started:
+**Software Developer & Visual Communication Designer**  
+Santa Fe, Argentina
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Digital solutions at the intersection of technology, design, and communication. I build scalable web applications and independent 2D video games.
 
-## Hello, I'm Román!
+### Tech Stack & Tools
+- **Frontend:** React, Vite, Tailwind CSS
+- **Backend & DB:** Node.js, Express, Mongoose, MongoDB Atlas, Cloudinary
+- **Multimedia:** UI/UX Design, Video Editing
 
-- 👨‍💻 Software Developer | Visual Designer
-- 🗺️ Santa Fe, Argentina
-- 🎯 Web Development | Multimedia Design | Game Development
-- 🎓 Higher Technical Degree in Software Development - IFTS N°29
-- 🎓 Bachelor's degree in Visual Communication Design - Universidad Nacional del Litoral
-- 🛠️ Proactivity, teamwork, effective communication, adaptability, and continuous learning
+### Experience
+- **Technical Assistant (Communication) |** Ministerio de Trabajo, Empleo y Seguridad Social (Province of Santa Fe). Developing graphic, digital, and audiovisual assets for institutional projects.
+
+### Education
+- **Higher Technical Degree in Software Development** - Instituto de Formación Técnica Superior N° 29.
+- **Bachelor's Degree in Visual Communication Design** - Universidad Nacional del Litoral.
